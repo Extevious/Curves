@@ -1,0 +1,8 @@
+{
+	"name": "com.extevious.curves",
+	"version": "1.0.0",
+	"dependencies": {},
+	"description": "Curves and spline functions.",
+	"displayName": "Curves",
+	"type": "module"
+}
